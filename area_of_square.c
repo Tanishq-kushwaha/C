@@ -6,4 +6,5 @@
         printf("Enter the side");
         scanf("%d",&side);
         printf("Area is %d", side*side);
+        
     }
